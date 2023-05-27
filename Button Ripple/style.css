@@ -29,6 +29,10 @@ button:focus {
   outline: none;
 }
 
+button:active {
+  transform: scale(0.98);
+}
+
 button:hover {
   cursor: pointer;
 }
